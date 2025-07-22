@@ -1,7 +1,7 @@
 Hi 👋 My name is R Sai Sandeep
 ==============================
 
-* ✉️  You can contact me at [sandeepnaik9900@gmail.com](mailto:sandeepnaik9900@gmail.com)
+* ✉️  You can contact me at [sandeepnaik9900@gmail.com](mailto:saisandeepramavath@gmail.com)
 
 ### Skills
 
