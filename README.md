@@ -1,38 +1,50 @@
-Hi 👋 My name is R Sai Sandeep
-==============================
 
-* ✉️  You can contact me at [sandeepnaik9900@gmail.com](mailto:saisandeepramavath@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+R+Sai+Sandeep;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
 
-### Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Email-sandeepnaik9900@gmail.com-3382ed?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-3382ed?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<br/>
+
+<div align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="300"/>
+</div>
+
+---
+
+<h2 align="center" style="font-weight:bold; background: linear-gradient(90deg,#3382ed,#1c1917,#3382ed); color: #fff; border-radius: 12px; padding: 8px 0;">🚀 Skills & Tech Stack</h2>
+
+<div align="center" style="backdrop-filter: blur(8px); background: rgba(44,44,44,0.25); border-radius: 18px; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37); padding: 24px 0; margin: 16px 0;">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mysql,postgres,firebase,flask,django" height="48" />
+</div>
+
+---
+
+<h2 align="center">🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.github.com/sandeepnaik9" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="http://www.instagram.com/sandeep_naik_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/sandeepnaik9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sandeep_naik_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<h2 align="center">🏆 GitHub Stats & Activity</h2>
 
-### Badges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepnaik9&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="sandeepnaik9's GitHub stats" style="border-radius: 12px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepnaik9&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="border-radius: 12px;"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sandeepnaik9&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="border-radius: 12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepnaik9&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="border-radius: 12px;"/>
+</div>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/sandeepnaik9"><img src="https://github-readme-stats.vercel.app/api?username=sandeepnaik9&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="sandeepnaik9's GitHub stats" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3382ed&height=120&section=footer"/>
+</div>
 
-<a href="http://www.github.com/sandeepnaik9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepnaik9&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sandeepnaik9"><img src="https://activity-graph.herokuapp.com/graph?username=sandeepnaik9&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/sandeepnaik9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepnaik9&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
