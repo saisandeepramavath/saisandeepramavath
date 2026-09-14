@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Sai Sandeep Ramavath</title>
+  <desc id="desc">Devices, services, interfaces. A connected-systems motif in mint, blue, and coral.</desc>
+  <rect width="1000" height="260" fill="#111214"/>
+  <g fill="none" stroke-width="1.5">
+    <path d="M0 62H128L158 32H358M1000 62H864L834 32H646" stroke="#34373c"/>
+    <path d="M0 207H100L132 239H354M1000 207H900L868 239H646" stroke="#34373c"/>
+    <path d="M0 96H54L84 66H170" stroke="#71c9b2"/>
+    <path d="M1000 96H946L916 66H830" stroke="#83b9ff"/>
+    <path d="M0 174H48L80 206H170" stroke="#83b9ff"/>
+    <path d="M1000 174H952L920 206H830" stroke="#ef9b86"/>
+    <path d="M342 215H436L453 198H548L565 215H658" stroke="#4b535d"/>
+  </g>
+  <g fill="#111214" stroke-width="2">
+    <rect x="168" y="62" width="8" height="8" stroke="#71c9b2"/>
+    <rect x="824" y="62" width="8" height="8" stroke="#83b9ff"/>
+    <rect x="168" y="202" width="8" height="8" stroke="#83b9ff"/>
+    <rect x="824" y="202" width="8" height="8" stroke="#ef9b86"/>
+  </g>
+  <text x="500" y="125" fill="#f2f4f7" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="64" font-weight="650">Sai Sandeep Ramavath</text>
+  <g text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="22">
+    <text x="308" y="172" fill="#71c9b2">DEVICES</text>
+    <text x="500" y="172" fill="#83b9ff">SERVICES</text>
+    <text x="704" y="172" fill="#ef9b86">INTERFACES</text>
+  </g>
+  <path d="M385 164h29m-6-5 6 5-6 5M586 164h29m-6-5 6 5-6 5" fill="none" stroke="#777e89" stroke-width="1.5"/>
+</svg>
